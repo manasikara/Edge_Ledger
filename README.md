@@ -1,2 +1,2 @@
-# Edge_Ledger
+# edge_ledger
  A simple website practice.
